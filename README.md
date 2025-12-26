@@ -15,3 +15,5 @@ and a trained CNN model.
 ## ⚙️ Installation
 ```bash
 pip install -r requirements.txt
+# Note : Note: If the notebook does not render on GitHub,
+please download and open it locally in Jupyter Notebook or VS Code.
